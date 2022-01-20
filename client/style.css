@@ -14,3 +14,8 @@ input:focus{
 form{
     margin-bottom: 30px;
 }
+
+.loading{
+    color: white;
+    text-align: center;
+}
